@@ -1,0 +1,2 @@
+# AbstractFactory-Example
+Абстрактна фабрика
